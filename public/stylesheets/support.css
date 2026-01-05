@@ -180,10 +180,14 @@ body.support-page {
     cursor: pointer;
     transition: background 0.2s;
     min-height: 60px;
+    text-decoration: none;
+    color: inherit;
 }
 
 .service-card:hover {
     background: #d0d0d0;
+    text-decoration: none;
+    color: inherit;
 }
 
 .service-icon {

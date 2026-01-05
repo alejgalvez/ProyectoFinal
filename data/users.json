@@ -3,7 +3,7 @@
     "id": 1,
     "name": "Usuario Demo",
     "email": "demo@gpx.com",
-    "password": "password123",
+    "password": "123456",
     "balance": {
       "btc": 0.0001055,
       "eur": 3524.26
